@@ -1,4 +1,4 @@
-# SteepCoin
+# NachoCoin
 
 - X11 algorithm
 - PoW/PoS(Hybrid)
